@@ -1,4 +1,4 @@
-#047054 Data Scientist - Assessment
+# 047054 Data Scientist - Assessment
 
 For any questions or submissions email : sachin.ambekar@lloydsbanking.com
 
@@ -10,5 +10,5 @@ Please use Python if you can.
 
 You can use as few or as many techniques , and be as simple or as complex as you want.
 
-##Deadline
+## Deadline
 Please submit any code, documents before 12 00 noon on Friday the 30th of May.
