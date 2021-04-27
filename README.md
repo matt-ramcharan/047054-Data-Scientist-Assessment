@@ -11,4 +11,4 @@ Please use Python if you can.
 You can use as few or as many techniques , and be as simple or as complex as you want.
 
 ## Deadline
-Please submit any code, documents before 12 00 noon on Friday the 30th of May.
+Please submit any code, documents deadline is 12:00 noon, this Friday, 30th of April.
