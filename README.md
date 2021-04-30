@@ -1,5 +1,10 @@
 # 047054 Data Scientist - Assessment
 
+## Submitted file
+The key file for submission is **DataScienceTask.ipynb**
+If there is any issues with this Jupyter Notebook, then it is also viewable as html and pdf 
+
+## Task
 For any questions or submissions email : sachin.ambekar@lloydsbanking.com
 
 Attached is a dataset, which has a column called **target**, which is the variable we are interested in.
